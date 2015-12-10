@@ -25,5 +25,5 @@ This is on Github, so if you have sandwich ideas you can stick a fork in it.
 
 Credits, please add your name here.
 
-* Edward Vielmetti
-* Your Name Here
+* Edward Vielmetti (the originator of these fine things.)
+* Barrie Turner (a pleasant forker.)
